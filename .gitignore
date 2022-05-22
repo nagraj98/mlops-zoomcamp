@@ -1,0 +1,5 @@
+# venv folder
+/mlops-zoomcamp-venv
+
+# notebook checkpoints
+/.ipynb_checkpoints
